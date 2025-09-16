@@ -2,7 +2,7 @@
 /*
 Plugin Name:    Popular Clicks Extended - modified by dex
 Plugin URI:     http://github.com/dexzhou/yourls-popular-clicks-extended
-Description:    Paul Vaughan （http://github.com/vaughany/yourls-popular-clicks-extended） created this tool 8 years ago, but it didn't work well with time offsets. Now just modify line 18 and it will work, although it's not tied to the "definition('YOURLS_HOURS_OFFSET','+8')" in the user/config.php. I'm not a programmer and just modified it with an AI tool.
+Description:    Paul Vaughan （http://github.com/vaughany/yourls-popular-clicks-extended） created this tool 8 years ago, but it didn't work well with time offsets. Now just modify line 18 and it will work, although it's not tied to the "definition('YOURLS_HOURS_OFFSET','+8')" in the user/config.php. I'm not a programmer and just modified it with an AI tool. Only the admin page was corrected to show records with the right time;  other items on the plugin page were not modified.
 Version:        0.3
 Release date:   2018-05-10
 Author:         Paul Vaughan
