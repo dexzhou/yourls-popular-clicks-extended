@@ -1,3 +1,8 @@
+# please learn that
+Paul Vaughan （http://github.com/vaughany/yourls-popular-clicks-extended） created this tool 8 years ago, but it didn't work well with time offsets. Now just modify line 18 and it will work, although it's not tied to the "definition('YOURLS_HOURS_OFFSET','+8')" in the user/config.php. I'm not a programmer and just modified it with an AI tool. Only the admin page was corrected to show records with the right time;  other items on the plugin page were not modified.
+
+the content below is from http://github.com/vaughany/yourls-popular-links-extended
+------------------------------------------------------------分割线------------------------------------------------------------
 # Popular Clicks Extended - a YOURLS plugin
 
 Plugin for [YOURLS](http://yourls.org) 1.7.x.
